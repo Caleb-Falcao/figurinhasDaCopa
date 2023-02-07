@@ -1,4 +1,4 @@
-# figurinhasDaCopa
+# Figurinhas da Copa
 
 Projeto desenvolvido a partir do desafio Figurinhas da Copa no site https://olimpiada.ic.unicamp.br/pratique/ps/2018/f1/figurinhas/
 
